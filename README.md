@@ -35,17 +35,17 @@
 </br>
 
 ### **Graphic**
-### Fabio - Artoomics
+#### Fabio - Artoomics
 #### Eleonora V - Artoomics
 
 </br>
 
 ### **Sound**
-### Francesca - Artoomics
+#### Francesca - Artoomics
 </br>
 
 ### **World Building**
-### Eleonora B - Artoomics
-### Francesca - Artoomics
+#### Eleonora B - Artoomics
+#### Francesca - Artoomics
 
 </br>
