@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5976a59d4379e4e1f8c3b1f85ad1b09a, type: 3}
+  m_Name: wave 3
+  m_EditorClassIdentifier: 
+  enemiesList:
+  - {fileID: 11400000, guid: c2a82a1c215aa99479778d67dd040a7f, type: 2}
+  - {fileID: 11400000, guid: 9a47ca5adb80e77419d2e009c07c08b4, type: 2}
+  - {fileID: 11400000, guid: c2efe897111f396449eeb01527304d79, type: 2}
+  - {fileID: 11400000, guid: df747ad85ec53ae4c880dd184ffa5f3c, type: 2}
+  - {fileID: 11400000, guid: 8024e3d738db3e34c81a8ee3a02e0a5b, type: 2}
+  - {fileID: 11400000, guid: b3bf816cc6b742f45987d0cdc34adae2, type: 2}
+  - {fileID: 11400000, guid: 78534f2aacfdee24e88049ae7b2d3e58, type: 2}
+  xCoordTriggerPoint: -2108
+  yCoordTriggerPoint: 1553
+  sizeX: 33
+  sizeY: 142

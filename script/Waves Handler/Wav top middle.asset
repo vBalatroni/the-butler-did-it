@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5976a59d4379e4e1f8c3b1f85ad1b09a, type: 3}
+  m_Name: Wav top middle
+  m_EditorClassIdentifier: 
+  enemiesList:
+  - {fileID: 11400000, guid: 897c659fcc89f4d4a9c0929a692faaec, type: 2}
+  - {fileID: 11400000, guid: 4bb314153acabcb4bace6c96e0b66d37, type: 2}
+  - {fileID: 11400000, guid: e55e6ebf1eb64f847891b486b379e887, type: 2}
+  - {fileID: 11400000, guid: e3a2e274ecc094f4da512dfea1082249, type: 2}
+  - {fileID: 11400000, guid: ab058908ef08f4e468b4112a34c55d17, type: 2}
+  - {fileID: 11400000, guid: b8d3028153c93d94fa9a175dd803e7e5, type: 2}
+  xCoordTriggerPoint: 6
+  yCoordTriggerPoint: 260
+  sizeX: 340
+  sizeY: 40

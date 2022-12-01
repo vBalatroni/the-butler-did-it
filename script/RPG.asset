@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaae64165d9344949a49827e567daeac, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: 
+  _weaponType: 4
+  _amount: 0
+  order: 1
+  name: RPG
+  description: 
+  sprite: {fileID: 21300000, guid: 6c3802d2070e2f446aff2b79023b168b, type: 3}
+  bulletPrefab: {fileID: 1024989662765129949, guid: ad3f94b758ff642df9477ec8f35fd45c, type: 3}
+  ammosHolderSprite: {fileID: 21300000, guid: 53600c6c5802c7747adc70579bb21746, type: 3}
+  ammosHolderSize: 10
+  currentHolderSize: 0
+  fireRateo: 5
+  bulletDamage: 20
+  weight: 1
+  initial_ammo: 0

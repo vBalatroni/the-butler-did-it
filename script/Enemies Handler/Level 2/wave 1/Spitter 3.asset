@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf5f021593774ac8b4fe743e69bc3df, type: 3}
+  m_Name: Spitter 3
+  m_EditorClassIdentifier: 
+  _enemyType: 0
+  name: Blaster
+  description: 
+  bulletPrefab: {fileID: 3266179137646352115, guid: da29f581b621c4a128124b2829897a6d, type: 3}
+  sprite: {fileID: 3277366097941734969, guid: cef2c512ffbd48946a95dfc4bc3cd28e, type: 3}
+  xSpawnPoint: -2876
+  ySpawnPoint: 1268
+  damage: 2
+  health: 10
+  fireRateo: 0

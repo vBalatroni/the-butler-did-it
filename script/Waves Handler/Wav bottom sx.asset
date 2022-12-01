@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5976a59d4379e4e1f8c3b1f85ad1b09a, type: 3}
+  m_Name: Wav bottom sx
+  m_EditorClassIdentifier: 
+  enemiesList:
+  - {fileID: 11400000, guid: 5761e1dca6a0f409da7bab58100fc7c0, type: 2}
+  - {fileID: 11400000, guid: 5624e63ccf89949759ad35e8edc47654, type: 2}
+  - {fileID: 11400000, guid: 1651a973905eb42afaa7ed17455d2ced, type: 2}
+  - {fileID: 11400000, guid: 21c4bfe24ee3b411f8f7be1faf1ad1bf, type: 2}
+  - {fileID: 11400000, guid: 465e4a42d01034b6e88c9d18cc943f69, type: 2}
+  - {fileID: 11400000, guid: 87666334774da4525976b21b9263e1a6, type: 2}
+  - {fileID: 11400000, guid: 9fcb91f01f4f642f98f250f5abb0a277, type: 2}
+  xCoordTriggerPoint: -220
+  yCoordTriggerPoint: -381
+  sizeX: 69
+  sizeY: 100

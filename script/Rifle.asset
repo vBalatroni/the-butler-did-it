@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaae64165d9344949a49827e567daeac, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  _weaponType: 1
+  _amount: 0
+  order: 4
+  name: Rifle
+  description: jisjiwdodj
+  sprite: {fileID: 21300000, guid: 1d1eb4caf084383479ab91c82f612212, type: 3}
+  bulletPrefab: {fileID: 2466575398487706202, guid: e5d38b4e1abfc46fab2ab98d6a8c9af1, type: 3}
+  ammosHolderSprite: {fileID: 21300000, guid: dde911eb7ebe57b449c68fdc55a97708, type: 3}
+  ammosHolderSize: 100
+  currentHolderSize: 100
+  fireRateo: 0
+  bulletDamage: 1
+  weight: 10
+  initial_ammo: 0
